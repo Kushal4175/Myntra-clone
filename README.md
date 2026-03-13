@@ -18,11 +18,7 @@ This project focuses on replicating the UI/UX of India's leading fashion e-comme
 
 ## Project Preview
 
-<img width="1920" height="865" alt="Social Calculator - Google Chrome 12_03_2026 10_44_22 PM" src="https://github.com/user-attachments/assets/c3b37a45-e29a-4dee-9f79-12b0f4c27c5b" />
 
-<img width="1920" height="852" alt="Social Calculator - Google Chrome 12_03_2026 10_44_31 PM" src="https://github.com/user-attachments/assets/9c49ff16-4098-401d-b37c-ed3574eadaf4" />
-
-<img width="1913" height="860" alt="Social Calculator - Google Chrome 12_03_2026 10_44_41 PM" src="https://github.com/user-attachments/assets/5b16fd21-c8fa-43bc-87e1-6cbc4a6b4a24" />
 
 
 ## 📁 Project Structure
