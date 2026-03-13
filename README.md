@@ -16,11 +16,6 @@ This project focuses on replicating the UI/UX of India's leading fashion e-comme
 - **Google Material Symbols:** Icons for Profile, Wishlist, and Bag.
 - **Google Fonts:** For high-quality web typography.
 
-## Project Preview
-
-
-
-
 ## 📁 Project Structure
 ```text
 ├── index.html       # Main HTML code
